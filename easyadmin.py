@@ -167,7 +167,7 @@ async def wtxt(ctx, *message):
 @client.command()
 async def gif(ctx, arg):
     # set the apikey and limit
-    apikey = "AIzaSyCcely8nBJ7u6OEGT_xAze0KZnZceWcSA0"  # click to set to your apikey
+    apikey = ""  # click to set to your apikey
     lmt = 1
     ckey = "my_test_app"  # set the client_key for the integration and use the same value for all API calls
 
